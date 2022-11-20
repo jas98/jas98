@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @jashandeep Singh
+- 👋 Hi, I’m Jashandeep Singh
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Somwthing new Everday 
-- 💞️ I’m looking to collaborate on Any Web Framework
 - 📫 How to reach me tech.jashan1@gmail.com
 
 <!---
