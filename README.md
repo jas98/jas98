@@ -2,7 +2,7 @@
 
 
 
-I am [Jashandeep Singh](https://www.linkedin.com/in/jashandeep-singh-63666a135/), a Full Stack Software Engineer from [CA](https://en.wikipedia.org/wiki/Canada)&nbsp; passionate about developing production-ready applications with 3+ years of professional onsite as well as remote working experience. 🎯
+I am [Jashandeep Singh](https://www.linkedin.com/in/jashandeep-singh-63666a135/), a Full Stack Software Engineer from [CANADA](https://en.wikipedia.org/wiki/Canada)&nbsp; passionate about developing production-ready applications with 3+ years of professional onsite as well as remote working experience. 🎯
 
 I mostly work with Python, Javascript, MVC Frameworks and Cloud based technologies. 🚀
 
